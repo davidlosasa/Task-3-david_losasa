@@ -238,5 +238,4 @@ ecommerce-sql-analysis/
 ## 👤 Author
 
 David Losasa
-Data Analyst | Finance & Data Enthusiast
-2026
+Data Analyst | 2026
