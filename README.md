@@ -1,7 +1,3 @@
-README prêt à être utilisé, aligné sur les résultats SQL et structuré pour impact business + data :
-
----
-
 # 🚀 E-Commerce Sales Optimization (SQL-Based Analysis)
 
 > Data-driven strategy to increase revenue and retention using SQL analytics
